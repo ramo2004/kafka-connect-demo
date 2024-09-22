@@ -1,3 +1,6 @@
+Project does NOT belong to me, just did a walkthrough and edited some things.
+Original: https://github.com/dalelane/kafka-connect-developers-intro-tutorial
+
 # kafka-connect-dev-tutorial
 
 Skeleton project to help a Java developer create their first Kafka Connect connector.
